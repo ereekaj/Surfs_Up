@@ -7,9 +7,10 @@ I am consulting with a potential investor to obtain additional funding to open u
 ## Results: 
 
 Below are screenshots of the descriptive statistics of temperature data from the month of June and December. 
-
+June
 ![June descriptive statistics](https://github.com/ereekaj/Surfs_Up/blob/main/Resources/June_screenshot.png)
 
+December
 ![December descriptive statistics](https://github.com/ereekaj/Surfs_Up/blob/main/Resources/Dec_screenshot.png)
 
 * In June the average temperature is approximately 75 degrees and the temperature ranges from 64 degrees to 85 degrees during that month. 
