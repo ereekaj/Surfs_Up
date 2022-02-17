@@ -7,6 +7,7 @@ I am consulting with a potential investor to obtain additional funding to open u
 ## Results: 
 
 Below are screenshots of the descriptive statistics of temperature data from the month of June and December. 
+
 ![June descriptive statistics](https://github.com/ereekaj/Surfs_Up/blob/main/Resources/June_screenshot.png)
 
 ![December descriptive statistics](https://github.com/ereekaj/Surfs_Up/blob/main/Resources/Dec_screenshot.png)
@@ -17,6 +18,6 @@ Below are screenshots of the descriptive statistics of temperature data from the
 
 * The average temperature only varies 4 degrees between June and December. The minimum temperature varies 9 degrees from June to December and the maximum temperature varies only 2 degrees from June to December. 
 
-## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+## Summary: 
 
 According to the weather data, the temperature does not vary much from June to December. The temperature is relatively mild year round in Oahu which could make it a great spot for the surf and ice cream shop. It may be useful to look at precipation for June and December to make sure there are no rainy time that would prevent people from surfing during those months. If rain is a big factor during June and December, you could also look at the precipation at certain weather stations to see if there are certain areas that are less rainy than others. That would help you pick an ideal location for the surf and ice cream shop.  
