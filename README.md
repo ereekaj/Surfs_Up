@@ -2,7 +2,7 @@
 
 ## Overview of the analysis: 
 
-I am consulting with a potential investor to obtain additional funding to open up a surf and ice cream shop in Oahu, HI.  The purpose of this analysis is to evaluate weather data for Oahu.  The investor specifically wants to know temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+I am consulting with a potential investor to obtain additional funding to open up a surf and ice cream shop in Oahu, HI.  The purpose of this analysis is to evaluate weather data for Oahu.  The investor specifically wants to know temperature data for the months of June and December in Oahu, to determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Results: 
 
@@ -20,4 +20,4 @@ Below are screenshots of the descriptive statistics of temperature data from the
 
 ## Summary: 
 
-According to the weather data, the temperature does not vary much from June to December. The temperature is relatively mild year round in Oahu which could make it a great spot for the surf and ice cream shop. It may be useful to look at precipation for June and December to make sure there are no rainy time that would prevent people from surfing during those months. If rain is a big factor during June and December, you could also look at the precipation at certain weather stations to see if there are certain areas that are less rainy than others. That would help you pick an ideal location for the surf and ice cream shop.  
+According to the weather data, the temperature does not vary much from June to December. The temperature is relatively mild year round in Oahu which could make it a great spot for the surf and ice cream shop. It may be useful to look at precipation for June and December to make sure there isn't a rainy season that would prevent people from surfing during those months. If rain is a big factor during June and December, you could also look at the precipation at certain weather stations to see if there are certain areas in Oahu that are less rainy than others. That would help you pick an ideal location for the surf and ice cream shop.  
