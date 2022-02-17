@@ -7,6 +7,7 @@ I am consulting with a potential investor to obtain additional funding to open u
 ## Results: 
 
 Below are screenshots of the descriptive statistics of temperature data from the month of June and December. 
+
 June
 ![June descriptive statistics](https://github.com/ereekaj/Surfs_Up/blob/main/Resources/June_screenshot.png)
 
